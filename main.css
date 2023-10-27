@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+body {
+    background-image:url(mic.jpg);
+}
+.barcode {
+    text-align: right;
+    margin-top: 40px;
+    margin-right: 130px;
+}
+
+.barcode a{
+
+    margin-left: 60px;
+    text-transform: uppercase;
+    font-family: Tahoma;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.zed1 {
+    margin-top: 240px;
+    text-align: center;
+
+}
+
+.zed1 h1{
+    color: white;
+    text-transform: uppercase;
+    font-family: Tahoma;
+    letter-spacing: 50px;
+    font-size: 80px;
+}
+
+.zed1 hr{
+    max-width: 50px;
+    border: 3px solid burlywood;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.zed1 p{
+    margin-top: 40px;
+    font-size: 20px;
+    color: black;
+    font-style: normal;
+
+
+}
+
+.yas2 {
+    background-color: aliceblue;
+}
+
+.zed1 button{
+    border: none;
+    margin-top: 30px;
+    border-radius: 20px;
+    width: 220px;
+    height: 40px;
+    text-transform: uppercase;
+    background-color:crimson;
+
+}
+
+.zed1 button a{
+    color:white;
+    text-decoration: none;
+    
+
+}
+
+.sora2 {
+    margin-top: 450px;
+}
+
+.sora2 h2 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    background-color:  white;
+    margin-bottom: 100px;
+    
+}
+
+.sora2 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.sora2 p {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    margin-bottom: 300px;
+
+}
+
+.test {
+    margin-top: 200px;
+}
+
+.yas2 h1{
+    background-color: white;
+    font-style: Arial;
+    color: black;
+    text-transform: uppercase;
+    font-family: Tahoma;
+    letter-spacing: 20px;
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+
+
+.ice2 img {
+    background-color: bisque;
+    margin-top: 100px;
+
+    float: right;
+    
+}
